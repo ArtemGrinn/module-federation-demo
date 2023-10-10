@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  font-size: 2rem;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+  padding: 20px;
+  border: solid 15px rgb(0, 0, 0);
+}
+
+.counter {
+  font-size: 2rem;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+  padding: 20px;
+  border: solid 15px rgb(43, 125, 226);
+}
+
+.counter button {
+  font-size: 2rem;
+  background: transparent;
+  border: solid 2px black;
+  margin: 10px 10px 10px 0;
+}
